@@ -1,0 +1,28 @@
+name: Topical Guerrilla Fact Supply
+favicon: null
+layout_spectrum: 0.6038577207364142
+typography_spectrum: 0.3728619981557131
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.229210622375831
+  lightness: 0.31705333944410086
+  saturation: 0.4659250245895237
+  rhythmicContrast: 0.6959185891319066
+purpose: []
